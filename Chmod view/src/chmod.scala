@@ -1,5 +1,10 @@
 
 
+/**
+ * @author Anish Nath
+ * 
+ * http://youtube.com/zarigatongy
+ */
 object chmod {
 
   val chmodMap = Map[Char, String](
