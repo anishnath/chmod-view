@@ -1,0 +1,1 @@
+This shows what each numeric permission does to a REGULAR file
